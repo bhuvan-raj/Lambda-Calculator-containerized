@@ -1,6 +1,6 @@
 
 # **Lambda Calculator Project**  
-![Alt Text](Lambda-Calculator-containerized/blob/main/assets/Screenshot%20From%202025-03-31%2018-32-23.png)
+![Alt Text](assets/Screenshot%20From%202025-03-31%2018-32-23.png)
 
 
 ## **About the Project**  
