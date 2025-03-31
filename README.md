@@ -1,5 +1,7 @@
 
 # **Lambda Calculator Project**  
+![Alt Text](https://your-image-url.com/image.png)
+
 
 ## **About the Project**  
 A containerized web calculator deployed as an **AWS Lambda function** with a frontend UI.  
