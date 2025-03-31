@@ -34,8 +34,8 @@ lambda-calc/
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/lambda-calculator.git
-cd lambda-calculator
+git clone https://github.com/bhuvan-raj/Lambda-Calculator-containerized.git
+cd Lambda-Calculator-containerized
 ```
 
 ---
